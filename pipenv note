@@ -1,0 +1,13 @@
+Installing pipenv
+---  pip install --user pipenv
+
+Enter the virtual environment with (Optional)
+--- pipenv shell
+
+Detection of Security Vulnerabilities
+-- pipenv check
+
+pipenv shell: Starts the virtual environment
+pipenv install: Will download and install all needed dependencies into the new environment
+exit: Exit the virtual environment
+pipenv lock -r: Creates a requirements.txt file for working without pipenv

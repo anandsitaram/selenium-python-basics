@@ -1,0 +1,7 @@
+Creating a virtual environment ->  py -m venv env
+Activating a virtual environment -> .\env\Scripts\activate
+Leaving the virtual environment -> deactivate
+Install using requirement file -> pip install -r requirements.txt
+Pip can export a list of all installed packages -> pip freeze
+
+

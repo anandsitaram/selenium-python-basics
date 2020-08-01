@@ -12,5 +12,6 @@ xlutils = "*"
 selenium = "*"
 webdriver_manager = "*"
 
+
 [requires]
 python_version = "3.8"
